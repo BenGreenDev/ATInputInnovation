@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VoiceTool", "VoiceTool\VoiceTool.csproj", "{5624554D-909A-4377-A9F8-49F83D6748D5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1D31552D-64D9-41C9-98AF-C6AB12F7943D} = {1D31552D-64D9-41C9-98AF-C6AB12F7943D}
+		{7FD65B41-AEC6-47F7-9503-E40AD489810A} = {7FD65B41-AEC6-47F7-9503-E40AD489810A}
+		{EE24C653-696D-4C3F-A701-40DAAA1103FC} = {EE24C653-696D-4C3F-A701-40DAAA1103FC}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRCChatApi", "IRCChatApi\IRCChatApi.csproj", "{1D31552D-64D9-41C9-98AF-C6AB12F7943D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputProcessing", "InputProcessing\InputProcessing.csproj", "{7FD65B41-AEC6-47F7-9503-E40AD489810A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechRecognition", "SpeechRecognition\SpeechRecognition.csproj", "{EE24C653-696D-4C3F-A701-40DAAA1103FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5624554D-909A-4377-A9F8-49F83D6748D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5624554D-909A-4377-A9F8-49F83D6748D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5624554D-909A-4377-A9F8-49F83D6748D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5624554D-909A-4377-A9F8-49F83D6748D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D31552D-64D9-41C9-98AF-C6AB12F7943D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D31552D-64D9-41C9-98AF-C6AB12F7943D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D31552D-64D9-41C9-98AF-C6AB12F7943D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D31552D-64D9-41C9-98AF-C6AB12F7943D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD65B41-AEC6-47F7-9503-E40AD489810A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD65B41-AEC6-47F7-9503-E40AD489810A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD65B41-AEC6-47F7-9503-E40AD489810A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD65B41-AEC6-47F7-9503-E40AD489810A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE24C653-696D-4C3F-A701-40DAAA1103FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE24C653-696D-4C3F-A701-40DAAA1103FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE24C653-696D-4C3F-A701-40DAAA1103FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE24C653-696D-4C3F-A701-40DAAA1103FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E603CC28-C1E6-44A9-9DBB-FC4A30B361F4}
+	EndGlobalSection
+EndGlobal

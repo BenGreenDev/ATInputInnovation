@@ -1,0 +1,72 @@
+﻿<Window x:Class="VoiceTool.UserSetup"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoiceTool"
+        mc:Ignorable="d"
+        Title="UserSetup" Height="600" Width="850" ResizeMode="NoResize">
+    <Grid>
+        <ListBox Margin="0,0,0,0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Disabled" Background="Transparent" BorderThickness="0" HorizontalAlignment="Left" Width="850" Height="50" VerticalAlignment="Top" RenderTransformOrigin="-1.141,2.222" Grid.Row="0">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBoxItem>
+                <Label Grid.Row="0" Content="Define Your Inputs" Width="150" HorizontalAlignment="Left" Margin="0,0,0,0" FontSize="16"/>
+            </ListBoxItem>
+            <ListBoxItem>
+                <Button Grid.Row="0" Click="NewProfile" Content="New Control Scheme" Width="150" HorizontalAlignment="Left" Margin="10,0,10,0"/>
+            </ListBoxItem>
+            <ListBoxItem>
+                <Button Grid.Row="0" Click="SaveCurrentProfile" Content="Save Control Scheme" Width="150" HorizontalAlignment="Left" Margin="10,0,10,0"/>
+            </ListBoxItem>
+            <ListBoxItem>
+                <ComboBox Name="LoadingDropdown" Margin="10,0,10,0" HorizontalAlignment="Left" Width="120"/>
+            </ListBoxItem>
+            <ListBoxItem>
+                <Button Grid.Row="0" Click="LoadSelectedProfile" Content="Load Control Scheme" Width="120" HorizontalAlignment="Left" Margin="10,0,10,0"/>
+            </ListBoxItem>
+        </ListBox>
+
+        <DataGrid Name="InputDataGrid" AutoGenerateColumns="False" Margin="0,50,0,64" HorizontalAlignment="Center" Width="810" RenderTransformOrigin="-1.141,2.222">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Activation Word" Width="250" Binding="{Binding Path=activationKeyword}"/>
+                <DataGridTextColumn Header="Action" Width ="200" IsReadOnly="True" Binding="{Binding Path=UIInputRepresentation}"/>
+                <DataGridTemplateColumn Width="50">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="ShowInputCreationScreen">...</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Priority" Width ="200" Binding="{Binding Path=priority}"/>
+                <DataGridTemplateColumn Header="Remove" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Click="RemoveItem">Remove</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <ListBox Margin="0,504,24.667,0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Disabled" Background="Transparent" BorderThickness="0" HorizontalAlignment="Right" Width="464" RenderTransformOrigin="-1.141,2.222" Grid.Row="0">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBoxItem>
+                <Button VerticalAlignment="Top" Content="Add Keyboard Instruction" Click="AddKeyboard" Height="28" Margin="10,0,10,0"/>
+            </ListBoxItem>
+            <ListBoxItem>
+                <Button VerticalAlignment="Top" Content="Add Mouse Instruction" Click="AddMouse" Height="28" Margin="10,0,10,0"/>
+            </ListBoxItem>
+            <ListBoxItem>
+                <Button VerticalAlignment="Top" Content="Confirm Controls" Click="ConfirmControls" Height="28" Margin="10,0,10,0"/>
+            </ListBoxItem>
+        </ListBox>
+    </Grid>
+</Window>

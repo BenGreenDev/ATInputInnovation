@@ -1,0 +1,406 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "WindowsBase/4.6.1055": {
+        "type": "package",
+        "compile": {
+          "lib/WindowsBase.dll": {}
+        },
+        "runtime": {
+          "lib/WindowsBase.dll": {}
+        }
+      },
+      "InputProcessing/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "WindowsBase": "4.6.1055"
+        },
+        "compile": {
+          "bin/placeholder/InputProcessing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InputProcessing.dll": {}
+        }
+      },
+      "IRCChatApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IRCChatApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IRCChatApi.dll": {}
+        }
+      },
+      "SpeechRecognition/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/SpeechRecognition.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpeechRecognition.dll": {}
+        }
+      }
+    },
+    ".NETCoreApp,Version=v3.1/win7-x86": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "WindowsBase/4.6.1055": {
+        "type": "package",
+        "compile": {
+          "lib/WindowsBase.dll": {}
+        },
+        "runtime": {
+          "lib/WindowsBase.dll": {}
+        }
+      },
+      "InputProcessing/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "WindowsBase": "4.6.1055"
+        },
+        "compile": {
+          "bin/placeholder/InputProcessing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InputProcessing.dll": {}
+        }
+      },
+      "IRCChatApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IRCChatApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IRCChatApi.dll": {}
+        }
+      },
+      "SpeechRecognition/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/SpeechRecognition.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpeechRecognition.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "WindowsBase/4.6.1055": {
+        "type": "package",
+        "compile": {
+          "lib/WindowsBase.dll": {}
+        },
+        "runtime": {
+          "lib/WindowsBase.dll": {}
+        }
+      },
+      "InputProcessing/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "WindowsBase": "4.6.1055"
+        },
+        "compile": {
+          "bin/placeholder/InputProcessing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InputProcessing.dll": {}
+        }
+      },
+      "IRCChatApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IRCChatApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IRCChatApi.dll": {}
+        }
+      },
+      "SpeechRecognition/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/SpeechRecognition.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpeechRecognition.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win7-x86": {
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "WindowsBase/4.6.1055": {
+        "type": "package",
+        "compile": {
+          "lib/WindowsBase.dll": {}
+        },
+        "runtime": {
+          "lib/WindowsBase.dll": {}
+        }
+      },
+      "InputProcessing/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "WindowsBase": "4.6.1055"
+        },
+        "compile": {
+          "bin/placeholder/InputProcessing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InputProcessing.dll": {}
+        }
+      },
+      "IRCChatApi/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IRCChatApi.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IRCChatApi.dll": {}
+        }
+      },
+      "SpeechRecognition/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/SpeechRecognition.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpeechRecognition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "WindowsBase/4.6.1055": {
+      "sha512": "1NKRZTcRus8Q1ZPZz9QAucHYHLHmQ3G+MMaFFZyPTDRpEfmIFLo9mtSyO8TZkEJFXaNXvnhenPod4ltd8EOHkg==",
+      "type": "package",
+      "path": "windowsbase/4.6.1055",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/WindowsBase.dll",
+        "windowsbase.4.6.1055.nupkg.sha512",
+        "windowsbase.nuspec"
+      ]
+    },
+    "InputProcessing/1.0.0": {
+      "type": "project",
+      "path": "../InputProcessing/InputProcessing.csproj",
+      "msbuildProject": "../InputProcessing/InputProcessing.csproj"
+    },
+    "IRCChatApi/1.0.0": {
+      "type": "project",
+      "path": "../IRCChatApi/IRCChatApi.csproj",
+      "msbuildProject": "../IRCChatApi/IRCChatApi.csproj"
+    },
+    "SpeechRecognition/1.0.0": {
+      "type": "project",
+      "path": "../SpeechRecognition/SpeechRecognition.csproj",
+      "msbuildProject": "../SpeechRecognition/SpeechRecognition.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "IRCChatApi >= 1.0.0",
+      "InputProcessing >= 1.0.0",
+      "Newtonsoft.Json >= 12.0.3",
+      "SpeechRecognition >= 1.0.0"
+    ],
+    ".NETFramework,Version=v4.7.2": [
+      "IRCChatApi >= 1.0.0",
+      "InputProcessing >= 1.0.0",
+      "Newtonsoft.Json >= 12.0.3",
+      "SpeechRecognition >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ben11\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\VoiceTool\\VoiceTool.csproj",
+      "projectName": "VoiceTool",
+      "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\VoiceTool\\VoiceTool.csproj",
+      "packagesPath": "C:\\Users\\ben11\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\VoiceTool\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ben11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472",
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj"
+            },
+            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj"
+            },
+            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\SpeechRecognition\\SpeechRecognition.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\SpeechRecognition\\SpeechRecognition.csproj"
+            }
+          }
+        },
+        "net472": {
+          "projectReferences": {
+            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj"
+            },
+            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj"
+            },
+            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\SpeechRecognition\\SpeechRecognition.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\SpeechRecognition\\SpeechRecognition.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      },
+      "net472": {
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsBase 4.6.1055' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsBase",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

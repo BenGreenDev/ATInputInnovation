@@ -1,0 +1,85 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VoiceTool/1.0.0": {
+        "dependencies": {
+          "IRCChatApi": "1.0.0",
+          "InputProcessing": "1.0.0",
+          "Newtonsoft.Json": "12.0.3",
+          "SpeechRecognition": "1.0.0"
+        },
+        "runtime": {
+          "VoiceTool.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "WindowsBase/4.6.1055": {},
+      "InputProcessing/1.0.0": {
+        "dependencies": {
+          "WindowsBase": "4.6.1055"
+        },
+        "runtime": {
+          "InputProcessing.dll": {}
+        }
+      },
+      "IRCChatApi/1.0.0": {
+        "runtime": {
+          "IRCChatApi.dll": {}
+        }
+      },
+      "SpeechRecognition/1.0.0": {
+        "runtime": {
+          "SpeechRecognition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VoiceTool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "WindowsBase/4.6.1055": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1NKRZTcRus8Q1ZPZz9QAucHYHLHmQ3G+MMaFFZyPTDRpEfmIFLo9mtSyO8TZkEJFXaNXvnhenPod4ltd8EOHkg==",
+      "path": "windowsbase/4.6.1055",
+      "hashPath": "windowsbase.4.6.1055.nupkg.sha512"
+    },
+    "InputProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IRCChatApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpeechRecognition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

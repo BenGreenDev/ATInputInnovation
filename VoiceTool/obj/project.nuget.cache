@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "9TIfbHU7qvJmQ4RCfC140M7a93vypmvkuaaOnJlrzPXQZeSe1dwZtSQDZcyE9r1pN2pX5zqSKg2uipVKsE09NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\VoiceTool\\VoiceTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ben11\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ben11\\.nuget\\packages\\windowsbase\\4.6.1055\\windowsbase.4.6.1055.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsBase 4.6.1055' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsBase",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

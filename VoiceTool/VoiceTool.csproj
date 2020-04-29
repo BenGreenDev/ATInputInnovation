@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFrameworks>net472;netcoreapp3.1</TargetFrameworks>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpeechRecognition\SpeechRecognition.csproj"/>
+    <ProjectReference Include="..\InputProcessing\InputProcessing.csproj" />
+    <ProjectReference Include="..\IRCChatApi\IRCChatApi.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="SaveFiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+</Project>

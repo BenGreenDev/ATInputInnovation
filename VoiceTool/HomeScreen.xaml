@@ -1,0 +1,21 @@
+﻿<Window x:Class="VoiceTool.HomeScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoiceTool"
+        mc:Ignorable="d"
+        Title="HomeScreen" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" Text="Welcome To The Voice Control Tool" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,70,0,0" Text="Step 1 - Load A Control Scheme:" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button Click="OpenControlScheme" Content="Load Control Scheme" HorizontalAlignment="Left" Margin="197,68,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,124,0,0" Text="Step 2 - Select Twitch or Voice Control:" TextWrapping="Wrap" VerticalAlignment="Top" Width="216"/>
+        <Button Click="OpenTwitch" Content="Twitch Control" HorizontalAlignment="Left" Margin="226,122,0,0" VerticalAlignment="Top" Width="88"/>
+        <Button Click="OpenVoice" Content="Voice Control" HorizontalAlignment="Left" Margin="338,122,0,0" VerticalAlignment="Top" Width="79"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,176,0,0" Text="Step 3 - Target the Desired Window in the Control Screen, and Play!" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,219,0,0" TextWrapping="Wrap" Text="As far as I'm aware, you can edit your control scheme even when in a twitch, or voice control screen by reopening step 1, and pressing confirm. However, since this is a prototype there may be issues, for I cannot test all possible outcomes whilst keeping everything thread safe." VerticalAlignment="Top" Width="749"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,277,0,0" TextWrapping="Wrap" Text="Whilst I've tested as much as I can, due to the low level nature of this application some issues may arise since dozens of threads and input requests are being processed. Inputs are set to only be sent when you're targeting the window you said you wanted to send inputs to. Therefore, in the rare event of unexpected behaviours, tab out of that screen." VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

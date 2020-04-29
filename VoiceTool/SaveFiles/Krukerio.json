@@ -1,0 +1,334 @@
+{
+  "$type": "InputProcessing.UserInputProfile, InputProcessing",
+  "actions": {
+    "$type": "System.Collections.Generic.List`1[[InputProcessing.Instruction, InputProcessing]], mscorlib",
+    "$values": [
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.KeyboardInput, InputProcessing",
+          "hotkey": {
+            "$type": "InputProcessing.Hotkey, InputProcessing",
+            "Key": 66,
+            "Modifiers": 0,
+            "KeyCode": 87,
+            "ScanCode": 17,
+            "ModifierScancode": 0,
+            "hasModifier": false
+          },
+          "keyboardInputType": 1,
+          "keysToPress": null,
+          "keyToPress": 1,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 100
+        },
+        "instructionType": 1,
+        "priority": 1,
+        "activationKeyword": "Walk",
+        "UIInputRepresentation": "Hold W Indefinately",
+        "id": "c96f785d-1c76-4b5d-8ba6-04b7ef381bd6"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.KeyboardInput, InputProcessing",
+          "hotkey": {
+            "$type": "InputProcessing.Hotkey, InputProcessing",
+            "Key": 66,
+            "Modifiers": 0,
+            "KeyCode": 87,
+            "ScanCode": 17,
+            "ModifierScancode": 0,
+            "hasModifier": false
+          },
+          "keyboardInputType": 2,
+          "keysToPress": null,
+          "keyToPress": 1,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 100
+        },
+        "instructionType": 1,
+        "priority": 1,
+        "activationKeyword": "Stop",
+        "UIInputRepresentation": "Release W",
+        "id": "8a9c5dbf-0a04-4e2e-846f-c47286fadcbb"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.KeyboardInput, InputProcessing",
+          "hotkey": {
+            "$type": "InputProcessing.Hotkey, InputProcessing",
+            "Key": 44,
+            "Modifiers": 0,
+            "KeyCode": 65,
+            "ScanCode": 30,
+            "ModifierScancode": 0,
+            "hasModifier": false
+          },
+          "keyboardInputType": 0,
+          "keysToPress": null,
+          "keyToPress": 1,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 1000
+        },
+        "instructionType": 1,
+        "priority": 1,
+        "activationKeyword": "Left",
+        "UIInputRepresentation": "Hold A For 1000 MS",
+        "id": "df2a6cb3-521e-44c5-9cff-3dff2a4ab491"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.KeyboardInput, InputProcessing",
+          "hotkey": {
+            "$type": "InputProcessing.Hotkey, InputProcessing",
+            "Key": 47,
+            "Modifiers": 0,
+            "KeyCode": 68,
+            "ScanCode": 32,
+            "ModifierScancode": 0,
+            "hasModifier": false
+          },
+          "keyboardInputType": 0,
+          "keysToPress": null,
+          "keyToPress": 1,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 1000
+        },
+        "instructionType": 1,
+        "priority": 1,
+        "activationKeyword": "Right",
+        "UIInputRepresentation": "Hold D For 1000 MS",
+        "id": "7187bee7-e48e-4957-8fec-5ce3e7d95fe3"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.KeyboardInput, InputProcessing",
+          "hotkey": {
+            "$type": "InputProcessing.Hotkey, InputProcessing",
+            "Key": 62,
+            "Modifiers": 0,
+            "KeyCode": 83,
+            "ScanCode": 31,
+            "ModifierScancode": 0,
+            "hasModifier": false
+          },
+          "keyboardInputType": 0,
+          "keysToPress": null,
+          "keyToPress": 1,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 1000
+        },
+        "instructionType": 1,
+        "priority": 1,
+        "activationKeyword": "Backwards",
+        "UIInputRepresentation": "Hold S For 1000 MS",
+        "id": "593a2d88-5659-490e-9c71-35f145b08e5a"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.MouseInput, InputProcessing",
+          "mouseInputType": 4,
+          "XMove": -60,
+          "YMove": 0,
+          "mouseSensitivity": 2.0,
+          "clickType": false,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 0
+        },
+        "instructionType": 0,
+        "priority": 1,
+        "activationKeyword": "Long Turn Left",
+        "UIInputRepresentation": "Move Mouse X:-60 Y: 0",
+        "id": "718a5021-2ae1-4e93-b567-d5543a696f75"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.MouseInput, InputProcessing",
+          "mouseInputType": 4,
+          "XMove": 60,
+          "YMove": 0,
+          "mouseSensitivity": 2.0,
+          "clickType": false,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 0
+        },
+        "instructionType": 0,
+        "priority": 1,
+        "activationKeyword": "Long Turn Right",
+        "UIInputRepresentation": "Move Mouse X:60 Y: 0",
+        "id": "11984f75-07b9-4940-b1c9-2ec2bb62a810"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.MouseInput, InputProcessing",
+          "mouseInputType": 0,
+          "XMove": 0,
+          "YMove": 0,
+          "mouseSensitivity": 2.0,
+          "clickType": false,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 500
+        },
+        "instructionType": 0,
+        "priority": 1,
+        "activationKeyword": "Shoot",
+        "UIInputRepresentation": "Press and Release Left Click",
+        "id": "306ba00e-2299-4945-9214-cc409933d10b"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.KeyboardInput, InputProcessing",
+          "hotkey": {
+            "$type": "InputProcessing.Hotkey, InputProcessing",
+            "Key": 18,
+            "Modifiers": 0,
+            "KeyCode": 32,
+            "ScanCode": 57,
+            "ModifierScancode": 0,
+            "hasModifier": false
+          },
+          "keyboardInputType": 3,
+          "keysToPress": null,
+          "keyToPress": 1,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 100
+        },
+        "instructionType": 1,
+        "priority": 1,
+        "activationKeyword": "Jump",
+        "UIInputRepresentation": "Toggle Space",
+        "id": "b92d17c6-ebf9-4a37-9515-4cc00ec9d3b1"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.KeyboardInput, InputProcessing",
+          "hotkey": {
+            "$type": "InputProcessing.Hotkey, InputProcessing",
+            "Key": 48,
+            "Modifiers": 0,
+            "KeyCode": 69,
+            "ScanCode": 18,
+            "ModifierScancode": 0,
+            "hasModifier": false
+          },
+          "keyboardInputType": 3,
+          "keysToPress": null,
+          "keyToPress": 1,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 100
+        },
+        "instructionType": 1,
+        "priority": 1,
+        "activationKeyword": "Change Weapon",
+        "UIInputRepresentation": "Toggle E",
+        "id": "54594337-94c2-4f33-bc17-b68d07635f9c"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.MouseInput, InputProcessing",
+          "mouseInputType": 4,
+          "XMove": -30,
+          "YMove": 0,
+          "mouseSensitivity": 2.0,
+          "clickType": false,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 0
+        },
+        "instructionType": 0,
+        "priority": 1,
+        "activationKeyword": "Short Turn Left",
+        "UIInputRepresentation": "Move Mouse X:-30 Y: 0",
+        "id": "9ba9179a-686a-463f-95a6-3bc18badc1af"
+      },
+      {
+        "$type": "InputProcessing.Instruction, InputProcessing",
+        "input": {
+          "$type": "InputProcessing.MouseInput, InputProcessing",
+          "mouseInputType": 4,
+          "XMove": 30,
+          "YMove": 0,
+          "mouseSensitivity": 2.0,
+          "clickType": false,
+          "targetWindow": {
+            "$type": "System.IntPtr, mscorlib",
+            "value": 657980
+          },
+          "isActive": false,
+          "isPaused": true,
+          "duration": 0
+        },
+        "instructionType": 0,
+        "priority": 1,
+        "activationKeyword": "Short Turn Right",
+        "UIInputRepresentation": "Move Mouse X:30 Y: 0",
+        "id": "eb589826-dae3-40ca-9a95-cd317bc13b18"
+      }
+    ]
+  },
+  "profileId": "5bd03b4f-c9a2-4100-b03e-a62e2846af43"
+}

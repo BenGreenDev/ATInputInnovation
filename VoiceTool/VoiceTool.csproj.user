@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Alert.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HomeScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="KeyboardInputSetup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MouseInputSetup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SpeechControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserSetup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Alert.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HomeScreen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="KeyboardInputSetup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ChatControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MouseInputSetup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SpeechControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserSetup.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

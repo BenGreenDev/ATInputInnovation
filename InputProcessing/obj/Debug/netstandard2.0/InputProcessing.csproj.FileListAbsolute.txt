@@ -1,0 +1,17 @@
+C:\Users\Ben\Documents\VoiceTool\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.csprojAssemblyReference.cache
+C:\Users\Ben\Documents\VoiceTool\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.AssemblyInfoInputs.cache
+C:\Users\Ben\Documents\VoiceTool\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.AssemblyInfo.cs
+C:\Users\Ben\Documents\VoiceTool\InputProcessing\bin\Debug\netstandard2.0\InputProcessing.deps.json
+C:\Users\Ben\Documents\VoiceTool\InputProcessing\bin\Debug\netstandard2.0\InputProcessing.dll
+C:\Users\Ben\Documents\VoiceTool\InputProcessing\bin\Debug\netstandard2.0\InputProcessing.pdb
+C:\Users\Ben\Documents\VoiceTool\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.dll
+C:\Users\Ben\Documents\VoiceTool\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.pdb
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\InputProcessing\bin\Debug\netstandard2.0\InputProcessing.deps.json
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\InputProcessing\bin\Debug\netstandard2.0\InputProcessing.dll
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\InputProcessing\bin\Debug\netstandard2.0\InputProcessing.pdb
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.AssemblyInfoInputs.cache
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.AssemblyInfo.cs
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.dll
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.pdb
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.csprojAssemblyReference.cache
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\InputProcessing\obj\Debug\netstandard2.0\InputProcessing.csproj.CoreCompileInputs.cache

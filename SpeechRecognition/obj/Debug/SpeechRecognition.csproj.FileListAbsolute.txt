@@ -1,0 +1,6 @@
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\SpeechRecognition\bin\Debug\SpeechRecognition.dll
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\SpeechRecognition\obj\Debug\SpeechRecognition.csprojAssemblyReference.cache
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\SpeechRecognition\obj\Debug\SpeechRecognition.dll
+C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
