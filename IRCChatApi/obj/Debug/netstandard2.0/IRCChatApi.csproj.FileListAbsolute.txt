@@ -14,3 +14,12 @@ C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-mast
 C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\IRCChatApi\obj\Debug\netstandard2.0\IRCChatApi.dll
 C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\IRCChatApi\obj\Debug\netstandard2.0\IRCChatApi.pdb
 C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\IRCChatApi\obj\Debug\netstandard2.0\IRCChatApi.csproj.CoreCompileInputs.cache
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\IRCChatApi\bin\Debug\netstandard2.0\IRCChatApi.deps.json
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\IRCChatApi\bin\Debug\netstandard2.0\IRCChatApi.dll
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\IRCChatApi\bin\Debug\netstandard2.0\IRCChatApi.pdb
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\IRCChatApi\obj\Debug\netstandard2.0\IRCChatApi.csprojAssemblyReference.cache
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\IRCChatApi\obj\Debug\netstandard2.0\IRCChatApi.csproj.CoreCompileInputs.cache
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\IRCChatApi\obj\Debug\netstandard2.0\IRCChatApi.AssemblyInfoInputs.cache
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\IRCChatApi\obj\Debug\netstandard2.0\IRCChatApi.AssemblyInfo.cs
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\IRCChatApi\obj\Debug\netstandard2.0\IRCChatApi.dll
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\IRCChatApi\obj\Debug\netstandard2.0\IRCChatApi.pdb

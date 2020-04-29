@@ -291,11 +291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\VoiceTool\\VoiceTool.csproj",
+      "projectUniqueName": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\VoiceTool\\VoiceTool.csproj",
       "projectName": "VoiceTool",
-      "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\VoiceTool\\VoiceTool.csproj",
+      "projectPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\VoiceTool\\VoiceTool.csproj",
       "packagesPath": "C:\\Users\\ben11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\VoiceTool\\obj\\",
+      "outputPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\VoiceTool\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -316,27 +316,27 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj": {
-              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj"
+            "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\InputProcessing\\InputProcessing.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\InputProcessing\\InputProcessing.csproj"
             },
-            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj": {
-              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj"
+            "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\IRCChatApi.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\IRCChatApi.csproj"
             },
-            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\SpeechRecognition\\SpeechRecognition.csproj": {
-              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\SpeechRecognition\\SpeechRecognition.csproj"
+            "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\SpeechRecognition\\SpeechRecognition.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\SpeechRecognition\\SpeechRecognition.csproj"
             }
           }
         },
         "net472": {
           "projectReferences": {
-            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj": {
-              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj"
+            "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\InputProcessing\\InputProcessing.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\InputProcessing\\InputProcessing.csproj"
             },
-            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj": {
-              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj"
+            "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\IRCChatApi.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\IRCChatApi.csproj"
             },
-            "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\SpeechRecognition\\SpeechRecognition.csproj": {
-              "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\SpeechRecognition\\SpeechRecognition.csproj"
+            "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\SpeechRecognition\\SpeechRecognition.csproj": {
+              "projectPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\SpeechRecognition\\SpeechRecognition.csproj"
             }
           }
         }

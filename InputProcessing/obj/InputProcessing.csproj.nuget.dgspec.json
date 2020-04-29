@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj": {}
+    "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\InputProcessing\\InputProcessing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj": {
+    "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\InputProcessing\\InputProcessing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj",
+        "projectUniqueName": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\InputProcessing\\InputProcessing.csproj",
         "projectName": "InputProcessing",
-        "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\InputProcessing.csproj",
+        "projectPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\InputProcessing\\InputProcessing.csproj",
         "packagesPath": "C:\\Users\\ben11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\InputProcessing\\obj\\",
+        "outputPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\InputProcessing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

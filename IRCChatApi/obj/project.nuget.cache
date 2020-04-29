@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q371B4+C+kYSAG4iyTmLHVnBuEHzCmvuxM02mTU4SqueYUbLWvFPCFvr4iCI1iNLibUwcIII9mC/DIJPqT52RQ==",
+  "dgSpecHash": "DigdzGBxl03teNTHn5mZiHyt+QdoEuFj1ht7M7m2XsKctajA25YhcaYniPbq/EGqmqQLRI/tM1AKZ5rA/UcbRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj",
+  "projectFilePath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\IRCChatApi.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

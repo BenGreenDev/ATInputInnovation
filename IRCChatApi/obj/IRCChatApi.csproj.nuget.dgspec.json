@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj": {}
+    "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\IRCChatApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj": {
+    "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\IRCChatApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj",
+        "projectUniqueName": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\IRCChatApi.csproj",
         "projectName": "IRCChatApi",
-        "projectPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\IRCChatApi.csproj",
+        "projectPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\IRCChatApi.csproj",
         "packagesPath": "C:\\Users\\ben11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ben11\\Documents\\SpeechControllerInput-master\\SpeechControllerInput-master\\IRCChatApi\\obj\\",
+        "outputPath": "C:\\Users\\ben11\\Documents\\Final-AT-Submission\\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\\IRCChatApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

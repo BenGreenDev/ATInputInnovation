@@ -4,3 +4,9 @@ C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-mast
 C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
 C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\SpeechRecognition\obj\Debug\SpeechRecognition.dll
 C:\Users\ben11\Documents\SpeechControllerInput-master\SpeechControllerInput-master\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\SpeechRecognition\bin\Debug\SpeechRecognition.dll
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\SpeechRecognition\obj\Debug\SpeechRecognition.csprojAssemblyReference.cache
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\SpeechRecognition\obj\Debug\SpeechRecognition.dll
+C:\Users\ben11\Documents\Final-AT-Submission\Task 3 - Input Innovation - Benjamin Andrew Green - 16011824\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
